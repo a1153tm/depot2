@@ -1,5 +1,17 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
+one:
+  title: MyTitle
+  description: dudada1
+  image_url: job.gif
+  price: 12.24
+
+two:
+  title: textmate
+  description: textmate is text editor for ruby programming.
+  image_url: textmate.jpg
+  price: 34.50
+
 ruby:
   title: Programming Ruby 1.9
   description: Ruby is fastest growing and most exciting dynamic language.
